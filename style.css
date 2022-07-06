@@ -46,8 +46,9 @@ color: gray;
 }
 .parent{
   display: flex;
-  margin-left: 550px;
-  margin-bottom: 50px;
+  justify-content: space-around;
+  margin: 50px auto;
+  width: 40%;
 }
 .second-container p{
   font-size: 18px;
