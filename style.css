@@ -10,8 +10,9 @@ h1{
 h2{
   font-size: 45px;
 }
+
 .container{
-  background-image: url(images/donation1.jpg);
+  background-image: url(images/donation13.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -70,5 +71,63 @@ color: gray;
   margin-bottom: 40px;
 }
 #donate-now{
-  margin-bottom: 100px;
+  margin-bottom: 200px;
+}
+.main-section{
+  margin-bottom: 200px;
+}
+.section-child1{
+  margin: 0 auto;
+  text-align: center;
+}
+.section-child1 p{
+  margin: 0 350px;
+  font-size: 18px;
+}
+.plan-section{
+  display: flex;
+}
+.section-child2{
+  margin: 30px;
+  box-shadow: 0px 0px 10px gray;
+  padding: 30PX;
+  border-radius: 10px;
+  height: 280px;
+  padding-top: 50px;
+}
+.section-child2 p{
+fony-size: 20px;
+}
+#child-bg1{
+  background-color: #FFA07A;
+  margin-left: 200px;
+}
+#child-bg2{
+background-color: #FFFFE0;
+}
+#child-bg3{
+background-color: #FFF0F5;
+  margin-right: 200px;
+}
+.flood-photographs{
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-bottom: 200px;
+}
+.flood-afected{
+  width: 100%;
+  margin-left: 20px;
+}
+.flood-afected img{
+  width: 420px;
+  height: auto;
+  box-shadow: 0px 0px 2px tomato;
+  margin: 15px;
+  padding: 15px;
+}
+.contact{
+  margin: 0 auto;
+  width: 800px;
+  height: 200px;
+  background-color: #FFF4D6;
 }
